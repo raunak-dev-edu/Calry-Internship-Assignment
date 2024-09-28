@@ -1,4 +1,4 @@
-# Carly Internship Assignment
+# Calry Internship Assignment
 
 This repository contains the solutions to the Carly Internship Assignment, including two separate tasks:
 
